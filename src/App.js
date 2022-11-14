@@ -5,6 +5,8 @@ import Cart from './Components/Cart/Cart';
 import CartProvider from './store/CartProvider';
 
 // this is a comment
+
+//the code nee to be add on tha dev branch
 function App() {
 
   const [cartIsShown, setCartIsShown] = useState(false);
