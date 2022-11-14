@@ -5,7 +5,7 @@ const MealsSummary = () => {
     <section className={classes.summary}>
       <h2>This code is added to the dev branch</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
+        voici la modif
         and enjoy a delicious lunch or dinner at home.
       </p>
       <p>
