@@ -4,6 +4,7 @@ import Meals from './Components/Meals/Meals';
 import Cart from './Components/Cart/Cart';
 import CartProvider from './store/CartProvider';
 
+// this is a comment
 function App() {
 
   const [cartIsShown, setCartIsShown] = useState(false);
